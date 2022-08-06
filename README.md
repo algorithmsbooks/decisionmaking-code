@@ -1,4 +1,4 @@
-# DecisionMakingCode
+# decisionmaking-code
 *Mykel Kochenderfer, Tim Wheeler, and Kyle Wray*
 
 All typeset code blocks from the book, [Algorithms for Decision Making](https://algorithmsbook.com/).
